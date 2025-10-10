@@ -20,7 +20,7 @@ local Mouse = LocalPlayer:GetMouse()
 local Window = WindUI:CreateWindow({
     Title = "Yomo HUB 🧑‍💻 | v2  | ",
     Icon = "menu",
-    Author = "https://discord.gg/xWW3jhKM",
+    Author = "Yomo team",
     Folder = "yomo hub",
     Size = UDim2.fromOffset(400, 200),
     Theme = "Dark",
@@ -812,3 +812,4 @@ Tab_Character:Toggle({
     end
 
 })
+
