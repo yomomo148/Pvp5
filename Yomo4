@@ -18,7 +18,7 @@ local LocalPlayer = Players.LocalPlayer
 local Mouse = LocalPlayer:GetMouse()
 
 local Window = WindUI:CreateWindow({
-    Title = "Yomo HUB ๐ง‘โ€๐’ป | v2  | ",
+    Title = "Yomo HUB 🐔 | v2  | ",
     Icon = "menu",
     Author = "https://discord.gg/YB5PgevqHh",
     Folder = "yomo hubFolder",
